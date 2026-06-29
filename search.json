@@ -4,39 +4,20 @@
     "href": "index.html",
     "title": "eigengrau",
     "section": "",
-    "text": "Preface\nThis is a samples from Quarto book 2.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "content/ch1/basics.html",
+    "href": "content/ch1/basics.html",
+    "title": "Basics",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Smooth maximum\nIt is generally defines as\n\\[\n\\max(x, y) =\n\\begin{cases}\nx & \\text{if } x &gt; y \\\\\ny  & \\text{else}\n\\end{cases}\n\\]",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "1",
+      "Basics"
     ]
   }
 ]
