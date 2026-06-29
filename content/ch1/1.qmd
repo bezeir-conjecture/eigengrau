@@ -1,0 +1,28 @@
+---
+title: "1"
+date: 2026-06-29
+author:
+  - name: V.
+    id: jc
+    orcid: 0000-0002-1825-0097
+    email: noemail@dummy.com
+
+abstract: > 
+  The characteristic theme of the works of Stone is 
+  the bridge between culture and society. ...
+keywords:
+  - Metaphysics
+  - String Theory
+license: "CC BY"
+copyright: 
+  holder: Josiah Carberry
+  year: 2008
+citation: 
+  container-title: Journal of Psychoceramics
+  volume: 1
+  issue: 1
+  doi: 10.5555/12345678
+funding: "The author received no specific funding for this work."
+title-block-banner: true
+
+---

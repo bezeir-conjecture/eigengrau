@@ -5,16 +5,23 @@ book:
   title: "eigengrau"
   author: "V."
   date: "6/29/2026"
+  page-navigation: true
+  page-footer: "Copyright 2026, eigengrau" 
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - content/intro.qmd
+    - content/summary.qmd
+    - part: content/ch1/1.qmd
+      chapters: 
+        - content/ch1/basics.qmd
+        - content/ch1/packages.qmd
     - references.qmd
 
 bibliography: references.bib
 
-format:
+format:  
   html:
+    number-depth: 1
     theme:
       - cosmo
       - brand

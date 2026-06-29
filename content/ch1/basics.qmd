@@ -1,0 +1,17 @@
+# Basics {.unnumbered}
+
+
+
+## Smooth maximum
+
+
+It is generally defines as
+
+$$
+\max(x, y) = 
+\begin{cases}
+x & \text{if } x > y \\
+y  & \text{else}
+\end{cases}
+$$
+
