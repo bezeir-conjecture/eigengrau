@@ -1,5 +1,5 @@
 # Preface {.unnumbered}
 
-This is a samples Quarto book.
+This is a samples from Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
